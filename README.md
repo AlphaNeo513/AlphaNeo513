@@ -2,7 +2,7 @@
 
 My name is AlphaNeo, I'm a 16 Year Old Discord Bot developer.
 
-Currently working on Helena Bot for the mobile game Abyss Front, you can reach me on discord - AlphaNeo#0001.
+Currently working wlnupdates api wrapper, you can reach me on discord - AlphaNeo#0001.
 
 
 <!--
